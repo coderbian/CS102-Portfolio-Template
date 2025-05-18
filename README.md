@@ -40,7 +40,7 @@ export const WEB_DESCRIPTION =
 export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
-export const NAME = 'Nguyen Van B'
+export const NAME = 'Trần Minh Hiếu Học'
 export const JOB_TITLE = 'NASA Frontend Intern'
 export const DESCRIPTION =
   'I am a passionate developer with a focus on creating beautiful and functional user interfaces.'
